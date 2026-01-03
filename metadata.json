@@ -1,0 +1,8 @@
+{
+  "name": "EnxtAI - Professional Corporate AI Website",
+  "description": "A futuristic, minimalist corporate website for EnxtAI featuring motion-driven capabilities, interactive video grids, and sophisticated AI service showcases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
